@@ -1,7 +1,6 @@
 WPU RESOLUSI
-- Konsisten Untuk Mengerjakan Tugas Denagn Cepat
+- Konsisten Untuk Mengerjakan Tugas Dengan Cepat
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan banyak expert
-- Membuat Ramuan
-
+- Mengumpulkan tugas tepat waktu
